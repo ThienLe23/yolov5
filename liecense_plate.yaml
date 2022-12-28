@@ -1,6 +1,6 @@
-path: ../yolo_plate_dataset
-train: train/images
-val: val/images
-
+path: ../yolo_plate_dataset # path to dataset images
+train: train/images # training set
+val: val/images # validation set
+# names of class
 names:
   0: plate
